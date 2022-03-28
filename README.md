@@ -1,7 +1,7 @@
 <h1 align="center">Eliott GUILLOSSOU</h1>
 <h3 align="center">Trying to understand computer science</h3>
 
-- 🔭 Je travaille actuellement sur [Agenda-Db](https://github.com/eliottguls/Agenda-Db)
+- 🔭 Je travaille actuellement sur [Lane line detection](https://github.com/eliottguls/road_lane_line_detection)
 
 - 🌱 Je suis en train d'apprendre **le Machine learning**
 
