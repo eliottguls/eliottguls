@@ -16,13 +16,13 @@
 
 - Here's a list of links for my projects :
     - School :
-        - BUT1 :
+        - BUT1 S1 :
             - [Ski shop database](https://github.com/eliottguls/IUT-SAE1.04)
             - [Yams game](https://github.com/eliottguls/IUT-SAE1.01)
             - [Sorting algorithms comparative](https://github.com/eliottguls/IUT-SAE1.02)
             - [Docker Project](https://github.com/eliottguls/IUT-SAE1.03)
             - [Showcase WebSite](https://github.com/eliottguls/IUT-SAE1.05)
-        - BUT2 :
+        - BUT1 S2 :
             - [Part of camping management app](https://github.com/eliottguls/IUT-SAE2.01) 
             - [System Network Website Server](https://github.com/eliottguls/IUT-SAE2.03)
             - [IUT Students Management Database](https://github.com/eliottguls/IUT-SAE2.04)
