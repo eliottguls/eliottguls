@@ -1,13 +1,32 @@
 <h1 align="center">Hi 👋, I'm Eliott GUILLOSSOU</h1>
 <h3 align="center">Trying to understand computer science</h3>
 
-- 🔭 I’m currently working on [Cycling Club database](https://github.com/eliottguls/VCPL_db)
+- 🔭 I’m currently working on : 
+    - [Cycling Club database](https://github.com/eliottguls/VCPL_db)
+    - [Part of camping management app](https://github.com/eliottguls/IUT-SAE2.01)
+    - [System Network Website Server](https://github.com/eliottguls/IUT-SAE2.03)
+    - [IUT Students Management Database](https://github.com/eliottguls/IUT-SAE2.04)
+
 
 - 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://eliottguillossou.wixsite.com/personal-resume](https://eliottguillossou.wixsite.com/personal-resume)
 
 - 📫 How to reach me **eliott.guillossou@gmail.com**
+
+- Here's a list of links for my projects :
+    - School :
+        - BUT1 :
+            - [Ski shop database](https://github.com/eliottguls/IUT-SAE1.04)
+            - [Yams game](https://github.com/eliottguls/IUT-SAE1.01)
+            - [Sorting algorithms comparative](https://github.com/eliottguls/IUT-SAE1.02)
+            - [Docker Project](https://github.com/eliottguls/IUT-SAE1.03)
+            - [Showcase WebSite](https://github.com/eliottguls/IUT-SAE1.05)
+        - BUT2 :
+            - [Part of camping management app](https://github.com/eliottguls/IUT-SAE2.01) 
+            - [System Network Website Server](https://github.com/eliottguls/IUT-SAE2.03)
+            - [IUT Students Management Database](https://github.com/eliottguls/IUT-SAE2.04)
+            - [The Knight's tour problem](https://github.com/eliottguls/IUT-SAE2.02-the-knight-s-tour)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
