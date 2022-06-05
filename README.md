@@ -39,4 +39,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliottguls&" alt="eliottguls" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eliottguls&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&fire=DD2B2B&background=22ADDD&dates=000000)](https://git.io/streak-stats)
