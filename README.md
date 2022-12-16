@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eliott GUILLOSSOU</h1>
 <h3 align="center">Trying to understand computer science</h3>
 
-- 🔭 I’m currently working on : 
-    - [Cycling Club database](https://github.com/eliottguls/VCPL_db)
-    - [Part of camping management app](https://github.com/eliottguls/IUT-SAE2.01)
-    - [Apache WebServer setup](https://github.com/eliottguls/IUT-SAE2.03)
-    - [IUT Students Management Database](https://github.com/eliottguls/IUT-SAE2.04)
+
 
 
 - 🌱 I’m currently learning **Machine learning**
