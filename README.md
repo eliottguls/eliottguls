@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **ELK Suite**
 
 - 👨‍💻 All of my projects are available at [https://eliottguillossou.wixsite.com/personal-resume](https://eliottguillossou.wixsite.com/personal-resume)
 
