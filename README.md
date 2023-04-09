@@ -11,7 +11,7 @@
 - 📫 How to reach me **eliott.guillossou@gmail.com**
 
 - Here's a list of links for my projects :
-    - School :
+    - Study :
         - BUT1 S1 :
             - [Ski shop database](https://github.com/eliottguls/IUT-SAE1.04)
             - [Yams game](https://github.com/eliottguls/IUT-SAE1.01)
